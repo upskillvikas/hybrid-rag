@@ -1,0 +1,16 @@
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-openai
+langchain-qdrant
+langchain-classic
+qdrant-client
+langchain_cohere
+rank-bm25
+fastapi
+pypdf
+pypdf
+fonttools
+python-multipart
+uvicorn
+streamlit
